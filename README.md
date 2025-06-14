@@ -52,7 +52,7 @@ lib_deps =
 ```
 
 ## Example Project
-Check out the [BasicNotification]((/examples/BasicNotification)) example for a complete implementation including: 
+Check out the [BasicNotification](/examples/BasicNotification) example for a complete implementation including: 
 
 Onboard LED for status indication (connecting vs. connected) 
 
